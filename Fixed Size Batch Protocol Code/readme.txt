@@ -1,2 +1,1 @@
-This example is to show how to transmit a short packet using TCP and UDP.
-Input a string (less than 50 characters) at the client end, you will receive the string at the server.
+My code is for sending a message from a client to a server using Ubuntu and Linux using fixed-batch-size protocol where the batch size is always fixed to be 2, i.e. the ACK is sent for every two Data Units. 
